@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<h1>A Place-Holder Page</h1>
+
+<p> look for a CV and some other stuff here soon</p>
+
+</body>
+
+</html>
