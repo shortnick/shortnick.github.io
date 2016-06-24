@@ -62,15 +62,17 @@ body {
   font-weight:400;
 }
 
+h4.feed-item-title {
+    text-align: center;
+    color: red;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
 
-h4.feed-item-title {
-    text-align: center;
-    color: red;
-}
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -89,7 +91,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#000000;
 }
 
 a {
