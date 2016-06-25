@@ -62,10 +62,7 @@ body {
   font-weight:400;
 }
 
-h4.feed-item-title {
-    text-align: left;
-    color: red;
-}
+
 
 
 h1, h2, h3, h4, h5, h6 {
@@ -328,4 +325,9 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+h4.feed-item-title {
+    text-align: left;
+    color: red;
 }
