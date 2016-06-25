@@ -87,8 +87,9 @@ h2 {
   color:#393939;
 }
 
-h3, h4, h5, h6 {
+h4, h5, h6 {
   color:#000000;
+  line-height: normal;
 }
 
 a {
@@ -335,5 +336,6 @@ h4.feed-item-title a {
 
 section h3 {
   font-size:16pt;
+  text-decoration: underline;
 
 }
