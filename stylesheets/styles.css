@@ -329,5 +329,6 @@ footer {
 
 h4.feed-item-title a {
     text-align: left;
-    color: red;
+    font-size:12pt;
+    color: #003459;
 }
