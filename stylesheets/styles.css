@@ -221,13 +221,13 @@ header ul li + li + li {
   border-right:none;
   width:89px;
 }
-*/
+
 header ul a strong {
   font-size:14px;
   display:block;
   color:#222;
 }
-
+*/
 section {
   width:60%;
   float:right;
@@ -252,7 +252,7 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
+/*
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -339,3 +339,4 @@ section h3 {
   text-decoration: underline;
 
 }
+*/
