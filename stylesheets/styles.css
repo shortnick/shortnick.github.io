@@ -175,7 +175,7 @@ header ul {
   padding:0;
   background: #f4f4f4;
 
-  width:270px;
+  margin-bottom:15px;
 }
 
 header li {
@@ -184,9 +184,7 @@ header li {
 
 }
 
-ul + ul {
-  margin-top:10px;
-}
+
 /*
 header li:first-child a {
   border-radius:5px 0 0 5px;
