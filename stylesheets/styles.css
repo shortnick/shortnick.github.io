@@ -169,7 +169,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul {
+/*header ul {
   list-style:none;
   height:40px;
   padding:0;
@@ -194,7 +194,7 @@ header li:last-child a {
   border-radius:0 5px 5px 0;
 }
 
-/*header ul a {
+header ul a {
   line-height:1;
   font-size:11px;
   color:#999;
