@@ -183,6 +183,10 @@ header li {
   float:left;
 
 }
+
+ul ul {
+  clear:left;
+}
 /*
 header li:first-child a {
   border-radius:5px 0 0 5px;
