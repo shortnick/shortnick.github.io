@@ -184,8 +184,8 @@ header li {
 
 }
 
-ul ul {
-  clear:left;
+ul+ul {
+  margin-left:10px;
 }
 /*
 header li:first-child a {

@@ -1,4 +1,13 @@
 shortnick.github.io buildnotes
 
+xxshould narrow the left column and widen the center, too much wasted whitespace
+
+relate/schematize the size/bolding for main heads and major elements under them
+
+add buttons for github account, the locations, and highlight/reveal? for write and call
+
+unify color pallete
 Conservative blue pallete colors:
 /* Coolors Exported Palette - coolors.co/ffffff-00171f-003459-007ea7-00a8e8 */
+
+the pocket archive list elements are specified at h4.feed-item-title a
