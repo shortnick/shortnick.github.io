@@ -75,9 +75,9 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+/*h1, h2, h3 {
   line-height:1.1;
-}
+}*/
 
 h1 {
   font-size:28px;
@@ -87,11 +87,16 @@ h2 {
   color:#393939;
 }
 
-h4, h5, h6 {
+emph {
+  font-weight: 700;
+  font-style: italic;
+}
+
+/*h4, h5, h6 {
   color:#000000;
   line-height: 70%;
 }
-
+*/
 a {
   color:#39c;
   text-decoration:none;
