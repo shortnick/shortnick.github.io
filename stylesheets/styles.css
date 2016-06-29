@@ -123,9 +123,6 @@ a small {
   color:#777;
   margin-top:-0.3em;
   display:block;
-  position:absolute;
-  bottom:-5%;
-  float:none;
 }
 
 a:hover small {
@@ -211,6 +208,9 @@ section {
 
 small {
   font-size:11px;
+  position:absolute;
+  bottom:-5%;
+  float:none;
 }
 
 hr {
