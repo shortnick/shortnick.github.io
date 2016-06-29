@@ -182,7 +182,7 @@ img {
 header {
   width:20%;
   float:left;
-  /*position:fixed;*/
+  position:fixed  
   min-height: 400px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -210,7 +210,7 @@ section {
 small {
   font-size:11px;
   position:absolute;
-  bottom:-5%;
+  bottom:-20%;
   left:auto;
 }
 
