@@ -183,7 +183,7 @@ img {
 header {
   width:20%;
   float:left;
-  position:fixed  
+  position:fixed;  
   min-height: 400px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
