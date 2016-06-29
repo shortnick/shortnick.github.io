@@ -196,17 +196,17 @@ header ul {
   margin-bottom:15px;
   margin-right:15px;
   width: 100%;
-  order:2;
+  order:3;
 }
 
 header li {
-  float:left;
+  /*float:left;*/
   width:100%;
 
 }
 
 header p {
-  order:1;
+  order:2;
 }
 
 header h1 {
@@ -215,16 +215,16 @@ header h1 {
 
 section {
   width:60%;
-  float:right;
+  /*float:right;*/
   padding-bottom:50px;
 }
 
 small {
   font-size:11px;
-  position:absolute;
+  /*position:absolute;
   bottom:-20%;
-  left:auto;
-  order:3;
+  left:auto;*/
+  order:4;
 }
 
 hr {
