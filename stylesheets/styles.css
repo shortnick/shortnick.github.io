@@ -185,6 +185,8 @@ header {
   float:left;
   position:fixed;  
   min-height: 400px;
+  display:flex;
+  flex:column;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -194,12 +196,17 @@ header ul {
   margin-bottom:15px;
   margin-right:15px;
   width: 100%;
+  order:2;
 }
 
 header li {
   float:left;
   width:100%;
 
+}
+
+header p {
+  order:1;
 }
 
 
@@ -214,6 +221,7 @@ small {
   position:absolute;
   bottom:-20%;
   left:auto;
+  order:3;
 }
 
 hr {
