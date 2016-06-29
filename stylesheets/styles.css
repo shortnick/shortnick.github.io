@@ -210,7 +210,7 @@ small {
   font-size:11px;
   position:absolute;
   bottom:-5%;
-  float:none;
+  float:left;
 }
 
 hr {
