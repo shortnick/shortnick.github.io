@@ -125,6 +125,7 @@ a small {
   display:block;
   position:absolute;
   bottom:-5%;
+  float:none;
 }
 
 a:hover small {
