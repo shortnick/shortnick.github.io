@@ -209,6 +209,9 @@ header p {
   order:1;
 }
 
+header h1 {
+  order:1;
+}
 
 section {
   width:60%;
