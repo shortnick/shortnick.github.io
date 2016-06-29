@@ -2,9 +2,24 @@ shortnick.github.io buildnotes
 
 xxshould narrow the left column and widen the center, too much wasted whitespace
 
+list-style:none for Education, Accomplishments
+
+Capabilities: space between Programming-GIS as there is above Language&Writing 
+
+check underlines for topic headers
+
+change the font for somethings?
+
 relate/schematize the size/bolding for main heads and major elements under them
 
+header: 
+	- add an image that spans top
+	- float the header on the left still
+	- move the navigation row on top of the image
+
 add buttons for github account, the locations, and highlight/reveal? for write and call
+
+anchor the "hosted on github pages - theme by orderedlist" so it doesn't float over the header
 
 unify color pallete
 Conservative blue pallete colors:
