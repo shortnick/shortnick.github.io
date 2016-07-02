@@ -182,11 +182,12 @@ img {
 
 header {
   width:20%;
-  float:left;
+  
   position:fixed;  
   min-height: 400px;
   display:flex;
-  flex:column;
+  flex-flow:column nowrap;
+  justify-content: flex-start;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -202,7 +203,6 @@ header ul {
 header li {
   /*float:left;*/
   width:100%;
-
 }
 
 header p {
@@ -236,7 +236,6 @@ hr {
 
 footer {
   width:270px;
-  float:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
