@@ -66,11 +66,13 @@ body {
 .column {
   width:20%;
   margin:0 auto;
+  order:1;
 }
 
 .main {
   max-width: 80%;
   flex-grow: 3;
+  order:2;
 }
 
 
@@ -190,8 +192,8 @@ img {
 header {
   width:20%;
   
-  position:fixed;  
-  min-height: 400px;
+  /*position:fixed;  
+  min-height: 400px;*/
   display:flex;
   flex-flow:column nowrap;
   justify-content: flex-start;
@@ -241,9 +243,9 @@ hr {
   margin:0 0 10px;
 }
 
-footer {
+/*footer {
   width:270px;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
-}
+}*/
