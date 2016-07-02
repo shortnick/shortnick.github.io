@@ -60,6 +60,17 @@ body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+
+}
+
+.column {
+  width:20%;
+  margin:0 auto;
+}
+
+.main {
+  max-width: 80%;
+  flex-grow: 3;
 }
 
 
@@ -130,10 +141,6 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
-  width:90%;
-  margin:0 auto;
-}
 
 blockquote {
   border-left:1px solid #e5e5e5;
