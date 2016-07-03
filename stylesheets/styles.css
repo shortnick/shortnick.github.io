@@ -65,7 +65,7 @@ body {
 }
 
 .column {
-  width:20%;
+  min-width:25%;
   margin:0 auto;
   order:1;
 }
@@ -190,8 +190,7 @@ img {
   max-width:100%;
 }
 
-header {
-  width:20%;
+header {    
   
   /*position:fixed;  
   min-height: 400px;*/
@@ -221,12 +220,6 @@ header p {
 
 header h1 {
   order:1;
-}
-
-section {
-  width:60%;
-  /*float:right;*/
-  padding-bottom:50px;
 }
 
 small {
