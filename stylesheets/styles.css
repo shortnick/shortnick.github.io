@@ -1,3 +1,4 @@
+/*
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
@@ -53,11 +54,12 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+*/
 
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
   display:flex;
@@ -194,6 +196,7 @@ header {
   
   /*position:fixed;  
   min-height: 400px;*/
+  max-width: 90%;
   display:flex;
   flex-flow:column nowrap;
   justify-content: flex-start;
