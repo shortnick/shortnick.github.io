@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "stylesheets/styles.css",
+			"settings":
+			{
+				"buffer_size": 3364,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7049,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "expandoDiv.js",
+			"settings":
+			{
+				"buffer_size": 1164,
+				"line_ending": "Windows",
+				"name": "$(document).ready(function() {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/MapTimeGit",
+		"/C/Users/user/Desktop/git notes.txt",
+		"/C/Users/user/Desktop/git installation post",
+		"/C/Users/user/Documents/GitHub/shortnick.github.io/shortnick.github.io buildnotes",
+		"/C/Users/user/Documents/GitHub/shortnick.github.io/stylesheets/styles.css",
+		"/C/Users/user/Documents/GitHub/shortnick.github.io/index.html",
+		"/C/Users/user/Desktop/Toorcamp notes/crudeIslandCoPoly.geojson.txt",
+		"/C/Users/user/Documents/GitHub/shortnick.github.io/mainHTML.txt",
+		"/C/Users/user/Documents/GitHub/shortnick.github.io/index.js",
+		"/C/Users/user/Desktop/HowTo-ExpressJS.txt",
+		"/C/Users/user/AppData/Local/VirtualStore/Program Files (x86)/WGET/bin/tries.txt",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/user/Desktop/Sandstorm.io Notes",
+		"/C/Users/user/AppData/Local/Temp/palette.scss",
+		"/C/Users/user/Desktop/Toorcamp notes/what3words.txt",
+		"/C/Users/user/Desktop/Toorcamp notes/Geo-Color Picker",
+		"/C/Users/user/Desktop/Toorcamp notes/TheColorOfHereAndNow.py",
+		"/C/Users/user/Desktop/Toorcamp notes/geohash location"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"black",
+			"color			",
+			"color",
+			"         \n",
+			"view",
+			"div",
+			"feed",
+			"h4",
+			"color",
+			"view",
+			"width",
+			"flex",
+			"fixed",
+			"section",
+			"row",
+			"float",
+			"ul",
+			"fixed;",
+			";*/\n",
+			"small",
+			"float",
+			".wrapper",
+			"float",
+			"margin",
+			"h4",
+			"width",
+			"wrapper",
+			"width",
+			"color",
+			"center",
+			"h4",
+			"viewport"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "stylesheets/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3568,
+								3568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1608.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "expandoDiv.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								748,
+								772
+							]
+						],
+						"settings":
+						{
+							"auto_name": "$(document).ready(function() {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 392.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PortfolioPage.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
