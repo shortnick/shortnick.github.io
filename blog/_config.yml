@@ -1,7 +1,7 @@
 # Site settings
 title: Another Blog
-url: "http://shortnick.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/blog" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+url: "http://shortnick.github.io/blog"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   Observations from the weird to the banal.
