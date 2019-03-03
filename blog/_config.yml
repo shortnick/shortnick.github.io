@@ -4,11 +4,11 @@ url: "http://shortnick.github.io"    # the protocol and hostname of your site, e
 baseurl: "/blog" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Observations from the weird to the banal.
 
 # Your information
 email: nickincr@gmail.com
-author: your_name
+author: Nick Short
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: Here we are then.
 #twitter_username: twitter_username
