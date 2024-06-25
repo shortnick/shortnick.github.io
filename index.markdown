@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This is a page for people to see.
