@@ -19,8 +19,39 @@ main:
   - title: "Scene Adaptive Mechanism for Action Recognition"
     authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Tianyang Xu, Josef Kittler
     conference_short: CVIU
-    conference: Computer Vision and Image Understanding(CVIU)</strong>, 2024.
+    conference: Computer Vision and Image Understanding <strong>(CVIU)</strong>, 2024.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S1077314223002345
     code: https://github.com/cong-wu/SAM
     image: ./assets/img/sam.png
 
+- title: "Motion Complement and Temporal Multifocusing for Skeleton-Based Action Recognition"
+    authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Tianyang Xu, Zhongwei Shen, Josef Kittler
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10015806
+    code: https://github.com/cong-wu/MCMT-Net
+    image: ./assets/img/sam.png
+
+- title: "I Know How You Move: Explicit Motion Estimation for Human Action Recognition"
+    authors: Zhongwei Shen, Xiao-Jun Wu, Hui Li, Tianyang Xu, <strong>Cong Wu</strong>
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9907887
+    code: https://github.com/AlbertZW/MOTion-Estimator-MOTE-
+    image: ./assets/img/mote.png
+
+- title: "Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition"
+    authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Josef Kittler
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/document/9446181
+    code: https://github.com/cong-wu/Graph2Net
+    image: ./assets/img/graph.png
+    
+- title: "Dynamic information enhancement for video classification"
+    authors: Rong-Chang Li, Xiao-Jun Wu, <strong>Cong Wu</strong>, Tianyang Xu, Josef Kittler
+    conference_short: IVC
+    conference: Image and Vision Computing <strong>(IVC)</strong>, 2021.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0262885621001499
+    code: https://github.com/RongchangLi/DEN
+    image: ./assets/img/mib.png
