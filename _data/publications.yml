@@ -1,5 +1,13 @@
 main:
 
+  - title: "Efficient Few-Shot Action Recognition via Multi-Level Post-Reasoning"
+    authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Linze Li, Tianyang Xu, Zhenhua Feng, Josef Kittler
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    code: https://github.com/cong-wu/EMP-Net
+    notes: Conditionally Accepted
+    image: ./assets/img/scd.png
+    
   - title: "SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-Supervised Skeleton-Based Action Recognition"
     authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Josef Kittler, Tianyang Xu, Sara Ahmed, Muhammad Awais, Zhenhua Feng
     conference_short: AAAI
