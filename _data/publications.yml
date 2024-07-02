@@ -6,7 +6,7 @@ main:
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     code: https://github.com/cong-wu/EMP-Net
     notes: Conditionally Accepted
-    image: ./assets/img/scd.png
+    image: ./assets/img/emp.png
     
   - title: "SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-Supervised Skeleton-Based Action Recognition"
     authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Josef Kittler, Tianyang Xu, Sara Ahmed, Muhammad Awais, Zhenhua Feng
@@ -15,3 +15,12 @@ main:
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28409
     code: https://github.com/cong-wu/SCD-Net
     image: ./assets/img/scd.png
+
+  - title: "Scene Adaptive Mechanism for Action Recognition"
+    authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Tianyang Xu, Josef Kittler
+    conference_short: CVIU
+    conference: Computer Vision and Image Understanding(CVIU)</strong>, 2024.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1077314223002345
+    code: https://github.com/cong-wu/SAM
+    image: ./assets/img/sam.png
+
