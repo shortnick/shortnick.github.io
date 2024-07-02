@@ -4,7 +4,6 @@ main:
     authors: <strong>Cong Wu<strong>, Xiao-Jun Wu, Josef Kittler, Tianyang Xu, Sara Ahmed, Muhammad Awais, Zhenhua Feng
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
-    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28409
     arxiv: https://arxiv.org/abs/2309.05834
     code: https://github.com/cong-wu/SCD-Net
     image: ./assets/img/scd.png
