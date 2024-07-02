@@ -16,3 +16,5 @@ The focus of my works is on deep learning approaches for Action Understanding. P
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/awards.md %}
