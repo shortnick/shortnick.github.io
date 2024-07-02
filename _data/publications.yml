@@ -24,15 +24,15 @@ main:
     code: https://github.com/cong-wu/SAM
     image: ./assets/img/sam.png
 
-- title: "Motion Complement and Temporal Multifocusing for Skeleton-Based Action Recognition"
+  - title: "Motion Complement and Temporal Multifocusing for Skeleton-Based Action Recognition"
     authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Tianyang Xu, Zhongwei Shen, Josef Kittler
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10015806
     code: https://github.com/cong-wu/MCMT-Net
-    image: ./assets/img/sam.png
+    image: ./assets/img/mcmt.png
 
-- title: "I Know How You Move: Explicit Motion Estimation for Human Action Recognition"
+  - title: "I Know How You Move: Explicit Motion Estimation for Human Action Recognition"
     authors: Zhongwei Shen, Xiao-Jun Wu, Hui Li, Tianyang Xu, <strong>Cong Wu</strong>
     conference_short: TMM
     conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2022.
@@ -40,7 +40,7 @@ main:
     code: https://github.com/AlbertZW/MOTion-Estimator-MOTE-
     image: ./assets/img/mote.png
 
-- title: "Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition"
+  - title: "Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition"
     authors: <strong>Cong Wu</strong>, Xiao-Jun Wu, Josef Kittler
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2022.
@@ -48,7 +48,7 @@ main:
     code: https://github.com/cong-wu/Graph2Net
     image: ./assets/img/graph.png
     
-- title: "Dynamic information enhancement for video classification"
+  - title: "Dynamic information enhancement for video classification"
     authors: Rong-Chang Li, Xiao-Jun Wu, <strong>Cong Wu</strong>, Tianyang Xu, Josef Kittler
     conference_short: IVC
     conference: Image and Vision Computing <strong>(IVC)</strong>, 2021.
