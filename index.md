@@ -16,3 +16,5 @@ The focus of my works is on deep learning approaches for Action Understanding. P
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/awards.md %}
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_O92HWkXQukSjdXTixlL_VgPGeXTAZmoJkpRww8wZnY&cl=ffffff&w=a"></script>
